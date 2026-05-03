@@ -145,6 +145,6 @@ Este projeto também reforça a aplicação prática de Python para análise de 
 
 ## 👨‍💻 Autor
 
-**Henry Joyce**
+**Henry Matheus Santos**
 
 Projeto desenvolvido para fins de estudo e portfólio.
